@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Git%20Uploads/MLFlow-Implementation/mlruns/0/51099f3d415040179a09ef80fd6132e2/artifacts
+end_time: 1704213340484
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51099f3d415040179a09ef80fd6132e2
+run_name: adaptable-gull-323
+run_uuid: 51099f3d415040179a09ef80fd6132e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704213340422
+status: 3
+tags: []
+user_id: Swapnil

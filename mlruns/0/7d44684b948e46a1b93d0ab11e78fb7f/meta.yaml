@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Git%20Uploads/MLFlow-Implementation/mlruns/0/7d44684b948e46a1b93d0ab11e78fb7f/artifacts
+end_time: 1704213114324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d44684b948e46a1b93d0ab11e78fb7f
+run_name: orderly-kite-496
+run_uuid: 7d44684b948e46a1b93d0ab11e78fb7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704213109356
+status: 3
+tags: []
+user_id: Swapnil

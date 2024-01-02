@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Git%20Uploads/MLFlow-Implementation/mlruns/0/d0cee27129034dec955878dd08e4f19f/artifacts
+end_time: 1704213414766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0cee27129034dec955878dd08e4f19f
+run_name: learned-wolf-645
+run_uuid: d0cee27129034dec955878dd08e4f19f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704213409981
+status: 3
+tags: []
+user_id: Swapnil
