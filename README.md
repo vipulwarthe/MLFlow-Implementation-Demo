@@ -40,9 +40,10 @@ Launch EC2 ubuntu 22.04/t2.medium/all-traffic or 22/443/5000 port need to open /
    Then browse: http://<EC2_PUBLIC_IP>:5000 → you should see MLflow UI. (If you used nginx, use port 80.)
 
 7) Create a tiny demo training script app.py
+   
    vi app.py  and add above python experiment script
 
-8) Point your client to remote MLflow server and run the script
+9) Point your client to remote MLflow server and run the script
 
        export MLFLOW_TRACKING_URI=http://<EC2_PUBLIC_IP>:5000           
        python app.py
